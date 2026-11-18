@@ -730,6 +730,1548 @@
         "supermarket"
       ],
       "barangay": "Barangay 5"
+    },
+    {
+      "id": "jayvee-bike-shop",
+      "name": "JayVee Bike Shop",
+      "category": "Shopping",
+      "description": "Bike shop.",
+      "address": "F. Alix St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.071602778926747,
+      "longitude": 120.63282410680102,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bike",
+        "bicycle",
+        "bisikleta",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "queen-s-salon",
+      "name": "Queen's Salon",
+      "category": "Beauty & Fitness",
+      "description": "Hair and beauty salon.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072186179875592,
+      "longitude": 120.63216890337353,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "hair",
+        "gupit",
+        "salon",
+        "gym"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "jeremy-john-cycle-parts",
+      "name": "Jeremy John Cycle Parts",
+      "category": "Shopping",
+      "description": "Cycle parts shop.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.073848774601245,
+      "longitude": 120.63178682568437,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bike",
+        "motor",
+        "parts",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "mang-domeng-s-bibingka-nasugbu",
+      "name": "Mang Domeng's Bibingka Nasugbu",
+      "category": "Dining",
+      "description": "Bibingka and Filipino delicacies.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071089012448967,
+      "longitude": 120.63238168898519,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bibingka",
+        "kakanin",
+        "merienda",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "globe-nasugbu",
+      "name": "Globe Nasugbu",
+      "category": "Services",
+      "description": "Globe telecom store.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071234882233055,
+      "longitude": 120.6323014288896,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "globe",
+        "sim",
+        "load",
+        "internet",
+        "telco",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "zophisticuts-hair-salon",
+      "name": "Zophisticuts Hair Salon",
+      "category": "Beauty & Fitness",
+      "description": "Hair salon.",
+      "address": "F. Alix St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071270939918739,
+      "longitude": 120.63225073830067,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "hair",
+        "gupit",
+        "salon",
+        "gym"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "lots-a-pizza",
+      "name": "Lots'a Pizza",
+      "category": "Dining",
+      "description": "Pizza restaurant.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.07120210251383,
+      "longitude": 120.6322845320253,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "pizza",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "red-ribbon",
+      "name": "Red Ribbon",
+      "category": "Dining",
+      "description": "Bakeshop and cakes.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071514970728797,
+      "longitude": 120.63217367090516,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cake",
+        "bakery",
+        "panaderya",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "ola-bella-wellness-spa",
+      "name": "Ola Bella Wellness Spa",
+      "category": "Beauty & Fitness",
+      "description": "Wellness spa.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071557248754795,
+      "longitude": 120.632174341457,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "massage",
+        "hilot",
+        "salon",
+        "gym"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "rizal-micro-finance",
+      "name": "Rizal Micro Finance",
+      "category": "Services",
+      "description": "Micro finance and loans.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071238537299942,
+      "longitude": 120.63250291217037,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "loan",
+        "utang",
+        "bank",
+        "finance",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "mercury-drug",
+      "name": "Mercury Drug",
+      "category": "Pharmacies",
+      "description": "Pharmacy.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071167640202235,
+      "longitude": 120.63250425327529,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "mercury",
+        "drugstore",
+        "botika",
+        "pharmacy"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "asistin-furniture-and-appliances",
+      "name": "Asistin Furniture and Appliances",
+      "category": "Shopping",
+      "description": "Furniture and appliances.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071007133603985,
+      "longitude": 120.63261025816588,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "furniture",
+        "appliances",
+        "muebles",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "ace-billiard-hall",
+      "name": "Ace Billiard Hall",
+      "category": "Entertainment",
+      "description": "Billiard hall.",
+      "address": "F. Alix St., Brgy. 4, Nasugbu",
+      "phone": null,
+      "latitude": 14.0719367762677,
+      "longitude": 120.63526402498138,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "billiards",
+        "biliyar",
+        "laro",
+        "games"
+      ],
+      "barangay": "Barangay 4"
+    },
+    {
+      "id": "sides-treats",
+      "name": "Sides Treats",
+      "category": "Dining",
+      "description": "Treats and refreshments.",
+      "address": "F. Alix St., Brgy. 5, Nasugbu",
+      "phone": null,
+      "latitude": 14.07197113070918,
+      "longitude": 120.63826627402146,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "dessert",
+        "merienda",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 5"
+    },
+    {
+      "id": "spinzone-pickleball-court",
+      "name": "Spinzone Pickleball Court",
+      "category": "Entertainment",
+      "description": "Pickleball court.",
+      "address": "Brgy. 5, Nasugbu",
+      "phone": null,
+      "latitude": 14.072548667280374,
+      "longitude": 120.63640840645115,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "pickleball",
+        "sports",
+        "court",
+        "laro",
+        "games"
+      ],
+      "barangay": "Barangay 5"
+    },
+    {
+      "id": "the-food-deck",
+      "name": "The Food Deck",
+      "category": "Dining",
+      "description": "Food stalls and eatery.",
+      "address": "Mulingbayan St., Brgy. 6, Nasugbu",
+      "phone": null,
+      "latitude": 14.070900847254753,
+      "longitude": 120.63578948246611,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "food park",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 6"
+    },
+    {
+      "id": "chicken-dippers",
+      "name": "Chicken Dippers",
+      "category": "Dining",
+      "description": "Chicken eatery.",
+      "address": "Samaniego St., Brgy. 6, Nasugbu",
+      "phone": null,
+      "latitude": 14.068618433492004,
+      "longitude": 120.63654486732474,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "chicken",
+        "manok",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 6"
+    },
+    {
+      "id": "katchupoy-s-sizzling-garage",
+      "name": "Katchupoy's Sizzling Garage",
+      "category": "Dining",
+      "description": "Sizzling dishes.",
+      "address": "San Roque St., Brgy. 7, Nasugbu",
+      "phone": null,
+      "latitude": 14.071061366914906,
+      "longitude": 120.63520090183813,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "sizzling",
+        "grill",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 7"
+    },
+    {
+      "id": "alfamart",
+      "name": "AlfaMart",
+      "category": "Groceries",
+      "description": "Convenience store.",
+      "address": "F. Alix St. cor. Margarita St., Brgy. 7, Nasugbu",
+      "phone": null,
+      "latitude": 14.0718023,
+      "longitude": 120.6344139,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "convenience",
+        "alfamart",
+        "tindahan",
+        "grocery"
+      ],
+      "barangay": "Barangay 7"
+    },
+    {
+      "id": "a-brilliant-vision",
+      "name": "A Brilliant Vision",
+      "category": "Services",
+      "description": "Photography studio.",
+      "address": "Meleora Bldg, Margarita St., Brgy. 7, Nasugbu",
+      "phone": null,
+      "latitude": 14.071544,
+      "longitude": 120.6344244,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "photo",
+        "photography",
+        "studio",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 7"
+    },
+    {
+      "id": "court-hive-by-reyes",
+      "name": "Court Hive by Reyes",
+      "category": "Entertainment",
+      "description": "Pickleball court.",
+      "address": "Margarita St., Brgy. 7, Nasugbu",
+      "phone": null,
+      "latitude": 14.068154,
+      "longitude": 120.6350454,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "pickleball",
+        "sports",
+        "court",
+        "laro",
+        "games"
+      ],
+      "barangay": "Barangay 7"
+    },
+    {
+      "id": "the-mini-green-nook",
+      "name": "The Mini Green Nook",
+      "category": "Shopping",
+      "description": "Plant nursery and specialty store.",
+      "address": "154-B F. Alix St., Brgy. 7, Nasugbu",
+      "phone": null,
+      "latitude": 14.0720027,
+      "longitude": 120.6346246,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "plants",
+        "halaman",
+        "nursery",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 7"
+    },
+    {
+      "id": "kamayan-sa-dike-nasugbu-branch",
+      "name": "Kamayan sa Dike Nasugbu Branch",
+      "category": "Dining",
+      "description": "Filipino restaurant.",
+      "address": "P. Roxas St. cor. Concepcion St., Brgy. 8, Nasugbu",
+      "phone": null,
+      "latitude": 14.069206841809436,
+      "longitude": 120.63404078338478,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "filipino",
+        "kamayan",
+        "boodle",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 8"
+    },
+    {
+      "id": "pendong-by-rance",
+      "name": "Pendong By Rance",
+      "category": "Dining",
+      "description": "Restaurant and cafe.",
+      "address": "Concepcion St., Brgy. 8, Nasugbu",
+      "phone": null,
+      "latitude": 14.06995699136137,
+      "longitude": 120.63378300035838,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cafe",
+        "coffee",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 8"
+    },
+    {
+      "id": "tourboxph-co",
+      "name": "TOURBOXPH CO",
+      "category": "Services",
+      "description": "Travel agency.",
+      "address": "F. Alix St. cor. Consuelo St., Brgy. 8, Nasugbu",
+      "phone": null,
+      "latitude": 14.071423788052337,
+      "longitude": 120.63285217680848,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "travel",
+        "tour",
+        "booking",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 8"
+    },
+    {
+      "id": "sweet-n-verse-cafe",
+      "name": "Sweet N'Verse Cafe",
+      "category": "Dining",
+      "description": "Cafe.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070506944162027,
+      "longitude": 120.6327376065784,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cafe",
+        "coffee",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "bdo-nasugbu",
+      "name": "BDO Nasugbu",
+      "category": "Services",
+      "description": "Bank.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070497844433344,
+      "longitude": 120.63238361150616,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bank",
+        "atm",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "ave-meatshop-highway-branch",
+      "name": "AVE Meatshop - Highway Branch",
+      "category": "Groceries",
+      "description": "Meat shop.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070555082607207,
+      "longitude": 120.63273766308976,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "meat",
+        "karne",
+        "baboy",
+        "manok",
+        "tindahan",
+        "grocery"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "family-healthline-pharmacy-citidrug",
+      "name": "Family Healthline Pharmacy (CitiDrug)",
+      "category": "Pharmacies",
+      "description": "Pharmacy.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070096289453542,
+      "longitude": 120.63259187180276,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "citidrug",
+        "botika",
+        "pharmacy"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "jack-s-cafe",
+      "name": "Jack's Cafe",
+      "category": "Dining",
+      "description": "Cafe.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070024741589792,
+      "longitude": 120.63256706136984,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cafe",
+        "coffee",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "chicken-joo-nasugbu",
+      "name": "Chicken Joo Nasugbu",
+      "category": "Dining",
+      "description": "Chicken restaurant.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070010432014351,
+      "longitude": 120.63261869389235,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "chicken",
+        "manok",
+        "fried chicken",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "motortrade-nasugbu",
+      "name": "Motortrade Nasugbu",
+      "category": "Shopping",
+      "description": "Motorcycle and appliance store.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070095639018074,
+      "longitude": 120.63286277490958,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "motor",
+        "motorcycle",
+        "appliances",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "mrl-rtw-outlet",
+      "name": "MRL RTW Outlet",
+      "category": "Shopping",
+      "description": "Ready-to-wear clothing outlet.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.070048807691482,
+      "longitude": 120.6328352822677,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "clothes",
+        "damit",
+        "rtw",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "bpi-nasugbu",
+      "name": "BPI Nasugbu",
+      "category": "Services",
+      "description": "Bank.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.069683913270765,
+      "longitude": 120.63258248407257,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bank",
+        "atm",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "barcelon-buhay-optical-clinic",
+      "name": "Barcelon-Buhay Optical Clinic",
+      "category": "Health",
+      "description": "Optical clinic.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.069552525117949,
+      "longitude": 120.63264819819321,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "eyeglasses",
+        "salamin",
+        "optical",
+        "mata",
+        "health",
+        "clinic"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "rd-pawnshop",
+      "name": "RD Pawnshop",
+      "category": "Services",
+      "description": "Pawnshop.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.069517401540462,
+      "longitude": 120.63277895588011,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "sanglaan",
+        "pawn",
+        "padala",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "card-indogrosir",
+      "name": "CARD Indogrosir",
+      "category": "Groceries",
+      "description": "Wholesale grocery.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.069203669633023,
+      "longitude": 120.63277261381685,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "wholesale",
+        "bulk",
+        "tindahan",
+        "grocery"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "angela-s-variety-shop",
+      "name": "Angela's Variety Shop",
+      "category": "Shopping",
+      "description": "Variety shop.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.069190660881395,
+      "longitude": 120.63272902792123,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "variety",
+        "sari-sari",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "caltex-nasugbu",
+      "name": "Caltex Nasugbu",
+      "category": "Services",
+      "description": "Gas station.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068865441839813,
+      "longitude": 120.63282156413267,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gas",
+        "gasoline",
+        "fuel",
+        "petrol",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "yo-berries-frozen-yogurt-and-soft-serve-ice-cream",
+      "name": "Yo!Berries Frozen Yogurt and Soft Serve Ice Cream",
+      "category": "Dining",
+      "description": "Frozen yogurt and soft serve ice cream.",
+      "address": "Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068700230394754,
+      "longitude": 120.63287520831193,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "ice cream",
+        "yogurt",
+        "dessert",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "solar-lights-trading",
+      "name": "Solar Lights Trading",
+      "category": "Hardware",
+      "description": "Solar and lighting trading.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068655350096748,
+      "longitude": 120.63287520831211,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "solar",
+        "lights",
+        "ilaw",
+        "hardware",
+        "construction"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "pnb",
+      "name": "PNB",
+      "category": "Services",
+      "description": "Bank.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.06860591672,
+      "longitude": 120.63289465432699,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bank",
+        "atm",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "ground-s-cafe",
+      "name": "Ground's Cafe",
+      "category": "Dining",
+      "description": "Cafe.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068535669266627,
+      "longitude": 120.63291946476068,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cafe",
+        "coffee",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "rhc",
+      "name": "RHC",
+      "category": "Other",
+      "description": "Business.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068593871150199,
+      "longitude": 120.6328903395248,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "negosyo",
+        "business"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "a126-construction-supply",
+      "name": "A126 Construction Supply",
+      "category": "Hardware",
+      "description": "Construction supply.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068450874035095,
+      "longitude": 120.63311664667926,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cement",
+        "semento",
+        "construction",
+        "hardware"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "double-a-construction-supply",
+      "name": "Double A Construction Supply",
+      "category": "Hardware",
+      "description": "Construction supply.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068404692811413,
+      "longitude": 120.63315151539574,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cement",
+        "semento",
+        "construction",
+        "hardware"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "sailor-s-pet-foods-accessories",
+      "name": "Sailor's Pet Foods & Accessories",
+      "category": "Shopping",
+      "description": "Pet food and accessories.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068161428180096,
+      "longitude": 120.63324069884436,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "pet",
+        "aso",
+        "pusa",
+        "dog",
+        "cat",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "l-j-carwash",
+      "name": "L&J Carwash",
+      "category": "Services",
+      "description": "Car wash.",
+      "address": "J.P. Laurel St., Brgy. 9, Nasugbu",
+      "phone": null,
+      "latitude": 14.068164680382178,
+      "longitude": 120.63300801721707,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "carwash",
+        "car wash",
+        "kotse",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 9"
+    },
+    {
+      "id": "superbikes-center",
+      "name": "SuperBikes Center",
+      "category": "Shopping",
+      "description": "Bike shop.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.064094553126864,
+      "longitude": 120.63387010326387,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bike",
+        "bicycle",
+        "bisikleta",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "fmh-animal-clinic",
+      "name": "FMH Animal Clinic",
+      "category": "Health",
+      "description": "Animal clinic.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.064006091621403,
+      "longitude": 120.63374403944132,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "vet",
+        "veterinary",
+        "pet",
+        "aso",
+        "pusa",
+        "health",
+        "clinic"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "premiumbikes",
+      "name": "Premiumbikes",
+      "category": "Shopping",
+      "description": "Bike shop.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063942347281923,
+      "longitude": 120.63404981126396,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bike",
+        "bicycle",
+        "bisikleta",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "ja-aquino-construction-electrical-hardware-supply",
+      "name": "Ja Aquino Construction Electrical & Hardware Supply",
+      "category": "Hardware",
+      "description": "Construction, electrical and hardware supply.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.06386429296321,
+      "longitude": 120.63390966584612,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "electrical",
+        "construction",
+        "hardware"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "arta-enterprises",
+      "name": "Arta Enterprises",
+      "category": "Other",
+      "description": "Business.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063626877581678,
+      "longitude": 120.63395794560907,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "negosyo",
+        "business"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "musicbox-milktea",
+      "name": "MusicBox Milktea",
+      "category": "Dining",
+      "description": "Milk tea shop.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063315310171655,
+      "longitude": 120.63421208491154,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "milktea",
+        "milk tea",
+        "inumin",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "musicbox",
+      "name": "MusicBox",
+      "category": "Other",
+      "description": "Business.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063339376980778,
+      "longitude": 120.63418191006016,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "negosyo",
+        "business"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "premio",
+      "name": "Premio",
+      "category": "Shopping",
+      "description": "Motorcycle retailer.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.062843656203032,
+      "longitude": 120.63412786659481,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "motor",
+        "motorcycle",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "32z-paint-center",
+      "name": "32Z Paint Center",
+      "category": "Hardware",
+      "description": "Paint center.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.062601686568446,
+      "longitude": 120.63415200647745,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "paint",
+        "pintura",
+        "hardware",
+        "construction"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "alfamart-b11",
+      "name": "AlfaMart",
+      "category": "Groceries",
+      "description": "Convenience store.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.062525583163861,
+      "longitude": 120.63414530095505,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "convenience",
+        "alfamart",
+        "tindahan",
+        "grocery"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "fullmetal-trading-roofing",
+      "name": "Fullmetal Trading Roofing",
+      "category": "Hardware",
+      "description": "Roofing supply.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.062565261007746,
+      "longitude": 120.63434579607659,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "roofing",
+        "yero",
+        "bubong",
+        "hardware",
+        "construction"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "five-j-s-prints",
+      "name": "Five J's Prints",
+      "category": "Services",
+      "description": "Printing shop.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.062018518374835,
+      "longitude": 120.63446816931693,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "printing",
+        "print",
+        "tarpaulin",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "zbk-crown-construction-supply-corporation",
+      "name": "Zbk Crown Construction Supply Corporation",
+      "category": "Hardware",
+      "description": "Construction supply.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.06209787423633,
+      "longitude": 120.63426499198803,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cement",
+        "semento",
+        "construction",
+        "hardware"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "party-corner",
+      "name": "Party Corner",
+      "category": "Shopping",
+      "description": "Party supplies.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063424985085573,
+      "longitude": 120.63401497233096,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "party",
+        "balloons",
+        "handaan",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "don-benito-s-cassava-cake-and-pichi-pichi",
+      "name": "Don Benito's Cassava Cake and Pichi Pichi",
+      "category": "Dining",
+      "description": "Cassava cake and pichi-pichi.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.063325465601942,
+      "longitude": 120.63403575945041,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "kakanin",
+        "cassava",
+        "pichi pichi",
+        "dessert",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "petron",
+      "name": "Petron",
+      "category": "Services",
+      "description": "Gas station.",
+      "address": "J.P. Laurel St., Brgy. 11, Nasugbu",
+      "phone": null,
+      "latitude": 14.060820552207842,
+      "longitude": 120.6351113582798,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gas",
+        "gasoline",
+        "fuel",
+        "petrol",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 11"
+    },
+    {
+      "id": "metrobank",
+      "name": "Metrobank",
+      "category": "Services",
+      "description": "Bank.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.067184706532247,
+      "longitude": 120.63359373480851,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bank",
+        "atm",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "motortrade",
+      "name": "Motortrade",
+      "category": "Shopping",
+      "description": "Motorcycle and appliance store.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.067102524480763,
+      "longitude": 120.63342727055056,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "motor",
+        "motorcycle",
+        "appliances",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "marc-and-calis-trading",
+      "name": "Marc and Calis Trading",
+      "category": "Other",
+      "description": "Trading.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.066991987170702,
+      "longitude": 120.63341988846331,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "negosyo",
+        "business"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "alfamart-b12",
+      "name": "AlfaMart",
+      "category": "Groceries",
+      "description": "Convenience store.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.066756289893998,
+      "longitude": 120.63351258068484,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "convenience",
+        "alfamart",
+        "tindahan",
+        "grocery"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "lemon-square-bakery-treats",
+      "name": "Lemon Square Bakery Treats",
+      "category": "Dining",
+      "description": "Bakery and treats.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.06627986222565,
+      "longitude": 120.63362121014734,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bakery",
+        "panaderya",
+        "tinapay",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "royal-prince-aesthetics",
+      "name": "Royal Prince Aesthetics",
+      "category": "Beauty & Fitness",
+      "description": "Aesthetics clinic.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.066240580841592,
+      "longitude": 120.63361272294097,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "beauty",
+        "skin",
+        "derma",
+        "salon",
+        "gym"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "nwow",
+      "name": "Nwow",
+      "category": "Shopping",
+      "description": "Electric bicycle store.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.066130655443269,
+      "longitude": 120.63359797079208,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "ebike",
+        "e-bike",
+        "electric bike",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "san-pablo-battery-depot",
+      "name": "San Pablo Battery Depot",
+      "category": "Shopping",
+      "description": "Battery depot.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.066031137133491,
+      "longitude": 120.6334725775219,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "battery",
+        "baterya",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "djoners-sports-apparel",
+      "name": "Djoners Sports Apparel",
+      "category": "Shopping",
+      "description": "Sports apparel.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.065487389743843,
+      "longitude": 120.63377632344842,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "jersey",
+        "sports",
+        "damit",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "vapor-lab",
+      "name": "Vapor Lab",
+      "category": "Shopping",
+      "description": "Vape shop.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.065450923527195,
+      "longitude": 120.63373875480855,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "vape",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "viewtronics-cctv",
+      "name": "Viewtronics CCTV",
+      "category": "Shopping",
+      "description": "CCTV and security equipment.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.065421694472843,
+      "longitude": 120.63376224185136,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cctv",
+        "security",
+        "camera",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "kq-emporium",
+      "name": "KQ Emporium",
+      "category": "Shopping",
+      "description": "Emporium.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.065119886246425,
+      "longitude": 120.63385611916496,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "emporium",
+        "general merchandise",
+        "tindahan",
+        "shop"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "daddy-riz-bar-and-restaurant",
+      "name": "Daddy Riz Bar and Restaurant",
+      "category": "Dining",
+      "description": "Bar and restaurant.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.064507375666878,
+      "longitude": 120.63378011353626,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "bar",
+        "inuman",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "project-craving-coffee-pastry-and-food-studio",
+      "name": "Project: Craving Coffee, Pastry, and Food Studio",
+      "category": "Dining",
+      "description": "Coffee, pastry and food studio.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.064481515287298,
+      "longitude": 120.63405381992051,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "cafe",
+        "coffee",
+        "pastry",
+        "kainan",
+        "restaurant"
+      ],
+      "barangay": "Barangay 12"
+    },
+    {
+      "id": "fuel-central",
+      "name": "Fuel Central",
+      "category": "Services",
+      "description": "Gas station.",
+      "address": "J.P. Laurel St., Brgy. 12, Nasugbu",
+      "phone": null,
+      "latitude": 14.064277704160068,
+      "longitude": 120.63398536901505,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gas",
+        "gasoline",
+        "fuel",
+        "petrol",
+        "serbisyo",
+        "service"
+      ],
+      "barangay": "Barangay 12"
     }
   ]
 }
