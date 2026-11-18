@@ -1,0 +1,735 @@
+{
+  "businesses": [
+    {
+      "id": "n-grande-special-halo-halo",
+      "name": "N'Grande Special Halo Halo",
+      "category": "Dining",
+      "description": "Refreshments and halo-halo.",
+      "address": "P. Rinoza St., Brgy. 1, Nasugbu",
+      "phone": null,
+      "latitude": 14.075108800959006,
+      "longitude": 120.63080333121357,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "halo-halo",
+        "halo halo",
+        "dessert",
+        "merienda",
+        "kainan"
+      ],
+      "barangay": "Barangay 1"
+    },
+    {
+      "id": "kanto-uno",
+      "name": "Kanto Uno",
+      "category": "Dining",
+      "description": "Billiards, food and refreshments.",
+      "address": "F. Castro cor. Escalera St., Brgy. 1, Nasugbu",
+      "phone": null,
+      "latitude": 14.07367991242031,
+      "longitude": 120.63117681793445,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "billiards",
+        "biliyar",
+        "bar",
+        "inuman",
+        "kainan"
+      ],
+      "barangay": "Barangay 1"
+    },
+    {
+      "id": "jjj-meat-trading",
+      "name": "JJJ Meat Trading",
+      "category": "Groceries",
+      "description": "Meat trading.",
+      "address": "Escalera St., Brgy. 1, Nasugbu",
+      "phone": null,
+      "latitude": 14.073617259714444,
+      "longitude": 120.63103274542395,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "karne",
+        "baboy",
+        "manok",
+        "baka",
+        "meat",
+        "palengke"
+      ],
+      "barangay": "Barangay 1"
+    },
+    {
+      "id": "feet-forward-footwear",
+      "name": "Feet Forward Footwear",
+      "category": "Shopping",
+      "description": "Footwear shop.",
+      "address": "Escalera St., Brgy. 1, Nasugbu",
+      "phone": null,
+      "latitude": 14.073650431387252,
+      "longitude": 120.63102201658809,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "sapatos",
+        "tsinelas",
+        "shoes",
+        "sandals"
+      ],
+      "barangay": "Barangay 1"
+    },
+    {
+      "id": "juls-pharmacy",
+      "name": "Juls Pharmacy",
+      "category": "Pharmacies",
+      "description": "Pharmacy.",
+      "address": "P. Riñoza St., Brgy. 1, Nasugbu",
+      "phone": null,
+      "latitude": 14.07380848458834,
+      "longitude": 120.63114606875457,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "botika",
+        "gamot",
+        "medicine",
+        "drugstore"
+      ],
+      "barangay": "Barangay 1"
+    },
+    {
+      "id": "powerhouse-tools",
+      "name": "PowerHouse Tools",
+      "category": "Hardware",
+      "description": "Tool shop.",
+      "address": "J.P. Laurel St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.075004832294093,
+      "longitude": 120.63154352949292,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "tools",
+        "gamit",
+        "pako",
+        "hardware",
+        "pang-ayos"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "la-locanda",
+      "name": "La Locanda",
+      "category": "Dining",
+      "description": "Italian restaurant.",
+      "address": "J.P. Laurel St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.075332644277665,
+      "longitude": 120.63133096443035,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "italian",
+        "pizza",
+        "pasta",
+        "restaurant",
+        "kainan"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "adm-shoes-planet",
+      "name": "ADM Shoes Planet",
+      "category": "Shopping",
+      "description": "Shoe shop.",
+      "address": "J.P. Laurel St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.076248757532733,
+      "longitude": 120.63131433780592,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "sapatos",
+        "tsinelas",
+        "shoes",
+        "sneakers"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "swish-fitness-center",
+      "name": "Swish Fitness Center",
+      "category": "Beauty & Fitness",
+      "description": "Fitness center.",
+      "address": "J.P. Laurel St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.076423719780482,
+      "longitude": 120.63119430895455,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gym",
+        "workout",
+        "ehersisyo",
+        "fitness"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "teves-cafe",
+      "name": "Teves Café",
+      "category": "Dining",
+      "description": "Restaurant and cafe.",
+      "address": "R. Vasquez St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.07714299958807,
+      "longitude": 120.6313222317573,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "kape",
+        "coffee",
+        "restaurant",
+        "cafe",
+        "kainan"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "teves-salon-spa",
+      "name": "Teves Salon & Spa",
+      "category": "Beauty & Fitness",
+      "description": "Beauty salon and spa.",
+      "address": "R. Vasquez St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.077144300418002,
+      "longitude": 120.63132625507075,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "salon",
+        "parlor",
+        "gupit",
+        "haircut",
+        "spa",
+        "massage"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "alfamart-b2",
+      "name": "AlfaMart",
+      "category": "Groceries",
+      "description": "Convenience store.",
+      "address": "St. Francis Xavier St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.075157749958624,
+      "longitude": 120.63235763086278,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "tindahan",
+        "convenience",
+        "grocery",
+        "groceries",
+        "pagkain",
+        "supermarket"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "aj-way-spa-massage",
+      "name": "AJ Way Spa & Massage",
+      "category": "Beauty & Fitness",
+      "description": "Spa and massage.",
+      "address": "Concepcion St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.074587811975926,
+      "longitude": 120.6331166224538,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "masahe",
+        "hilot",
+        "massage",
+        "spa"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "joe-s-big-plate",
+      "name": "Joe's Big Plate",
+      "category": "Dining",
+      "description": "Restaurant.",
+      "address": "Concepcion St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.074639578881753,
+      "longitude": 120.63308997418176,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "restaurant",
+        "kainan",
+        "rice meals",
+        "ulam"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "artista-salon",
+      "name": "Artista Salon",
+      "category": "Beauty & Fitness",
+      "description": "Hair and beauty salon.",
+      "address": "J.P. Laurel St., Brgy. 2, Nasugbu",
+      "phone": null,
+      "latitude": 14.0714949423907,
+      "longitude": 120.63246388777031,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "salon",
+        "parlor",
+        "gupit",
+        "haircut",
+        "barber"
+      ],
+      "barangay": "Barangay 2"
+    },
+    {
+      "id": "cephiel-pharmacy-general-merchandise-branch-2",
+      "name": "Cephiel Pharmacy & General Merchandise (Branch 2)",
+      "category": "Pharmacies",
+      "description": "Pharmacy and general merchandise.",
+      "address": "F. Castro St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072139015055727,
+      "longitude": 120.63101257471752,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "botika",
+        "gamot",
+        "medicine",
+        "general merchandise"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "grace-pearl-pharmacy",
+      "name": "Grace Pearl Pharmacy",
+      "category": "Pharmacies",
+      "description": "Pharmacy.",
+      "address": "F. Castro St. cor. F. Alix, Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071201243542138,
+      "longitude": 120.63124329054381,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "botika",
+        "gamot",
+        "medicine",
+        "drugstore"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "reigncess",
+      "name": "Reigncess",
+      "category": "Other",
+      "description": "Type not recorded yet.",
+      "address": "F. Alix St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071205321013482,
+      "longitude": 120.63128421466105,
+      "offerings": [],
+      "hours": [],
+      "keywords": [],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "rico-tess-enterprises",
+      "name": "Rico & Tess Enterprises",
+      "category": "Other",
+      "description": "Type not recorded yet.",
+      "address": "F. Alix St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.071231241467938,
+      "longitude": 120.6313876947381,
+      "offerings": [],
+      "hours": [],
+      "keywords": [],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "bogs-gadgets",
+      "name": "Bogs Gadgets",
+      "category": "Shopping",
+      "description": "Gadgets.",
+      "address": "F. Alix St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.0712540065796,
+      "longitude": 120.63147888984278,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gadget",
+        "cellphone",
+        "electronics",
+        "charger",
+        "phone"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "savemore-nasugbu",
+      "name": "Savemore Nasugbu",
+      "category": "Groceries",
+      "description": "Supermarket.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072219015399137,
+      "longitude": 120.63238577990121,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "supermarket",
+        "grocery",
+        "palengke",
+        "pagkain",
+        "tindahan"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "mixue-ice-cream-tea",
+      "name": "Mixue Ice Cream & Tea",
+      "category": "Dining",
+      "description": "Ice cream and milk tea.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072416371348003,
+      "longitude": 120.63230940433701,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "milk tea",
+        "milktea",
+        "ice cream",
+        "dessert",
+        "inumin"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "cafe-marieta",
+      "name": "Cafe Marieta",
+      "category": "Dining",
+      "description": "Cafe.",
+      "address": "P. Rinoza St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072307597805025,
+      "longitude": 120.63148917468669,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "kape",
+        "coffee",
+        "cafe",
+        "kainan"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "quad-8-gym",
+      "name": "Quad 8 Gym",
+      "category": "Beauty & Fitness",
+      "description": "Gym.",
+      "address": "C. Alvarez St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072034160278752,
+      "longitude": 120.63008097788692,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "gym",
+        "workout",
+        "ehersisyo",
+        "fitness"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "nasugbu-local-wardrobe",
+      "name": "Nasugbu Local Wardrobe",
+      "category": "Shopping",
+      "description": "Clothing store.",
+      "address": "C. Alvarez St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.07195306269754,
+      "longitude": 120.62958450158393,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "damit",
+        "clothes",
+        "ukay",
+        "fashion",
+        "wardrobe"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "shawarma-shack",
+      "name": "Shawarma Shack",
+      "category": "Dining",
+      "description": "Shawarma.",
+      "address": "C. Alvarez St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072405812523476,
+      "longitude": 120.63186133118384,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "shawarma",
+        "kainan",
+        "fast food",
+        "snack"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "jollibee",
+      "name": "Jollibee",
+      "category": "Dining",
+      "description": "Fast food.",
+      "address": "Ternate-Nasugbu Rd., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072671827012666,
+      "longitude": 120.63193269077985,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "fast food",
+        "chicken",
+        "burger",
+        "kainan",
+        "chickenjoy"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "andoks",
+      "name": "Andoks",
+      "category": "Dining",
+      "description": "Roasted chicken and liempo.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072470194336775,
+      "longitude": 120.6320983171843,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "lechon manok",
+        "manok",
+        "liempo",
+        "chicken",
+        "kainan"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "but-first-coffee",
+      "name": "But First Coffee",
+      "category": "Dining",
+      "description": "Coffee shop.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072181223032862,
+      "longitude": 120.63215552357492,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "kape",
+        "coffee",
+        "cafe"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "potato-corner",
+      "name": "Potato Corner",
+      "category": "Dining",
+      "description": "Flavoured fries.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.07215260415107,
+      "longitude": 120.63217228738094,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "fries",
+        "snack",
+        "merienda",
+        "potato"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "layagan-s-bakery",
+      "name": "Layagan's Bakery",
+      "category": "Dining",
+      "description": "Bakery.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.07220743176011,
+      "longitude": 120.63215905638798,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "tinapay",
+        "pandesal",
+        "bakery",
+        "cake",
+        "bread"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "incco",
+      "name": "Incco",
+      "category": "Hardware",
+      "description": "Tool trading.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.072071534407662,
+      "longitude": 120.63212798542051,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "tools",
+        "gamit",
+        "pako",
+        "hardware"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "hungry-lion",
+      "name": "Hungry Lion",
+      "category": "Dining",
+      "description": "Fast food.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.0719089736378,
+      "longitude": 120.63218344887287,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "fast food",
+        "chicken",
+        "kainan"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "28th-avenue-cafe",
+      "name": "28th Avenue Cafe",
+      "category": "Dining",
+      "description": "Cafe.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.073188198335371,
+      "longitude": 120.63191698993154,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "kape",
+        "coffee",
+        "cafe",
+        "kainan"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "mcdonalds",
+      "name": "McDonalds",
+      "category": "Dining",
+      "description": "Fast food.",
+      "address": "J.P. Laurel St., Brgy. 3, Nasugbu",
+      "phone": null,
+      "latitude": 14.07353747695796,
+      "longitude": 120.63177013898479,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "fast food",
+        "burger",
+        "fries",
+        "kainan",
+        "mcdo"
+      ],
+      "barangay": "Barangay 3"
+    },
+    {
+      "id": "vaporhub",
+      "name": "VaporHub",
+      "category": "Shopping",
+      "description": "Vape shop.",
+      "address": "R. Vasquez St., Brgy. 5, Nasugbu",
+      "phone": null,
+      "latitude": 14.073344027679406,
+      "longitude": 120.63688284850154,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "vape",
+        "e-cigarette"
+      ],
+      "barangay": "Barangay 5"
+    },
+    {
+      "id": "jdmf-gaming-hub",
+      "name": "JDMF Gaming Hub",
+      "category": "Entertainment",
+      "description": "Gaming hub.",
+      "address": "R. Vasquez St cor. P. Hugo, Brgy. 5, Nasugbu",
+      "phone": null,
+      "latitude": 14.073279605272488,
+      "longitude": 120.63710278546769,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "games",
+        "computer shop",
+        "internet cafe",
+        "laro",
+        "gaming"
+      ],
+      "barangay": "Barangay 5"
+    },
+    {
+      "id": "alfamart-b5",
+      "name": "AlfaMart",
+      "category": "Groceries",
+      "description": "Convenience store.",
+      "address": "R. Vasquez St., Brgy. 5, Nasugbu",
+      "phone": null,
+      "latitude": 14.073290272308084,
+      "longitude": 120.63722625617336,
+      "offerings": [],
+      "hours": [],
+      "keywords": [
+        "tindahan",
+        "convenience",
+        "grocery",
+        "groceries",
+        "pagkain",
+        "supermarket"
+      ],
+      "barangay": "Barangay 5"
+    }
+  ]
+}
