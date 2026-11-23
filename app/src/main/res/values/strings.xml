@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nasug-Go</string>
+
+    <string name="nav_home">Explore</string>
+    <string name="nav_map">Map</string>
+
+    <string name="search_hint">Search shops, services, barangay…</string>
+    <string name="map_search_hint">Search this area…</string>
+    <string name="category_all">All</string>
+    <string name="barangay_all">All barangays</string>
+    <string name="sort_prefix">Sort: %1$s</string>
+    <string name="no_results">No businesses match your search.</string>
+    <string name="header_subtitle">Nasugbu Poblacion · %1$s</string>
+    <plurals name="place_count">
+        <item quantity="one">%d place</item>
+        <item quantity="other">%d places</item>
+    </plurals>
+
+    <string name="nearest_label">Nearest place</string>
+    <string name="nearest_none">No places match this search.</string>
+    <string name="nearest_meta_format">%1$s · %2$s away</string>
+    <string name="show_on_map">Map</string>
+
+    <string name="distance_m">%1$d m</string>
+    <string name="distance_km">%1$.1f km</string>
+
+    <string name="view_details">Details</string>
+    <string name="navigate">Navigate</string>
+    <string name="call">Call</string>
+    <string name="no_number">No number listed</string>
+
+    <string name="label_about">About</string>
+    <string name="label_offerings">What they offer</string>
+    <string name="no_maps_app">No maps app found on this device</string>
+    <string name="no_dialer">No phone app found on this device</string>
+
+    <string name="location_prompt_title">Use your location?</string>
+    <string name="location_prompt_message">Nasug-Go uses your phone location to show where you are on the map and to find the nearest business. Your location stays on your phone.</string>
+    <string name="location_allow">Allow</string>
+    <string name="location_not_now">Not now</string>
+    <string name="location_off">Location is switched off. Turn it on in your phone settings to see where you are.</string>
+    <string name="location_far">You are %1$s from the Poblacion</string>
+    <string name="location_denied">Location is off: distances are measured from the Poblacion center.</string>
+    <string name="location_outside">You seem to be outside Nasugbu: distances are measured from the Poblacion center.</string>
+
+    <string name="sheet_nearest">Nearest: %1$s · %2$s</string>
+    <string name="sheet_none">No places in this selection</string>
+
+    <string name="map_error_title">Map could not load</string>
+    <string name="map_error_message">Check your internet connection. Search, the list and details still work.</string>
+
+    <string name="cd_map_style">Switch map style</string>
+    <string name="cd_nearest">Show nearest place</string>
+    <string name="cd_my_location">My location</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_clear">Clear search</string>
+</resources>

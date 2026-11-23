@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NasugGo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/accent_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">#D4F5F0</item>
+        <item name="colorSecondary">@color/amber</item>
+        <item name="colorSecondaryContainer">#D4F5F0</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Widget.NasugGo.Chip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_bg</item>
+        <item name="android:textColor">@color/chip_text</item>
+        <item name="chipStrokeWidth">0dp</item>
+        <item name="checkedIconTint">@color/navy</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Widget.NasugGo.Chip.Map" parent="Widget.NasugGo.Chip">
+        <item name="chipBackgroundColor">@color/chip_bg_map</item>
+    </style>
+
+    <style name="Widget.NasugGo.Chip.Offer" parent="Widget.Material3.Chip.Assist">
+        <item name="chipBackgroundColor">#E4F7F4</item>
+        <item name="android:textColor">@color/accent_dark</item>
+        <item name="chipStrokeWidth">0dp</item>
+    </style>
+
+    <style name="ShapeAppearance.NasugGo.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="SectionTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">@color/accent_dark</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
